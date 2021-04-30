@@ -1,1 +1,1 @@
-# Grayscales-with-Deep-Learning-fundamentalistics
+Deep learning fundamentalistic project via python on mnist fashion dataset, infusing loading, training and testing the dataset with 60,000 28×28 grayscale images of 10 fashion categories and the test set of 10,000 images and lastly the class labels.
